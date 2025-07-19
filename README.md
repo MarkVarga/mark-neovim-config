@@ -30,4 +30,7 @@ Optional:
  - Install nerd font:
    - Check for new font releases here: `https://github.com/ryanoasis/nerd-fonts/releases`
      `curl -OL https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/IBMPlexMono.tar.xz`
+
+Install:
+- `git clone git@github.com:MarkVarga/mark-neovim-config.git ~/.config/nvim`
     
